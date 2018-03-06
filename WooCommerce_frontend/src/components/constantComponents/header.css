@@ -1,0 +1,14 @@
+
+
+.ui.menu .ui.dropdown .menu>.item:hover {
+ background: white!important;
+    color: rgba(0,0,0,.95)!important;
+    border-bottom-color: #EC7A5C; 
+}
+/* .ui.secondary.menu .active.item.header:hover{
+    border-bottom-color: #EC7A5C;
+} */
+/* color: #EC7A5C; */
+/* .ui.list>.item .header :hover{
+  
+} */
